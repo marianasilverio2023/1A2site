@@ -15,3 +15,15 @@ nav{
     right: 0;
 
 }
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;/*espaçamento externo*/
+}
+
+nav a {
+    text-transform: uppercase;/* letras maiúsculas*/
+    color:black;/* cor das letras pretas*/
+    font-weight: bold /* fonte negrito*/
+    font-size: 22px; /*tamanho da fonte*/
+    text-decoration: nome;/* retirar o sublinhado do texto*/
+}
